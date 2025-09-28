@@ -15,4 +15,7 @@ int main() {
   }
      printf("%d",c);
 
+
+ retrun 0;
+	
 }
